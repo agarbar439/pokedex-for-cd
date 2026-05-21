@@ -1,0 +1,9 @@
+dist/
+node_modules/
+cypress/plugins
+cypress/support
+cypress/videos
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
